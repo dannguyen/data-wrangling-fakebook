@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd docs && make html
+open http://127.0.0.1:4567
+cd ../_build/html \
+    && python -m http.server 4567 --bind 127.0.0.1
