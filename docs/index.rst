@@ -10,11 +10,19 @@ Welcome to Sphinx Hot Tips's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   toc
+   code
+   figures-and-images
+   tables
+   partials
+
+
+   resources
+
+
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
