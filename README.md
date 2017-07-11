@@ -13,6 +13,12 @@ $ cd docs
 $ make html
 ```
 
+To rebuild HTML from scratch (i.e. not just from un-modified files)
+
+```sh
+$ make html SPHINXOPTS='-E'
+```
+
 
 
 
