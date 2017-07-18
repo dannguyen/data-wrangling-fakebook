@@ -15,9 +15,11 @@ Welcome to Sphinx Hot Tips's documentation!
    figures-and-images
    tables
    partials
+   publish
+   templating
 
 
-   resources
+   resources/index
 
 
 
