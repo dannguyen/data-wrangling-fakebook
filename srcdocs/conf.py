@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Sphinx Hot Tips documentation build configuration file, created by
+# Little Data Wrangling Fakebook documentation build configuration file, created by
 # sphinx-quickstart on Mon Jul 10 18:13:03 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -52,7 +52,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Sphinx Hot Tips'
+project = 'Little Data Wrangling Fakebook'
 copyright = '2017, Dan Nguyen'
 author = 'Dan Nguyen'
 
@@ -109,7 +109,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'SphinxHotTipsdoc'
+htmlhelp_basename = 'DataWranglingFakebookdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -136,7 +136,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'SphinxHotTips.tex', 'Sphinx Hot Tips Documentation',
+    (master_doc, 'DataWranglingFakebook.tex', 'Little Data Wrangling Fakebook Documentation',
      'Dan Nguyen', 'manual'),
 ]
 
@@ -146,7 +146,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinxhottips', 'Sphinx Hot Tips Documentation',
+    (master_doc, 'DataWranglingFakebook', 'Little Data Wrangling Fakebook Documentation',
      [author], 1)
 ]
 
@@ -157,8 +157,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'SphinxHotTips', 'Sphinx Hot Tips Documentation',
-     author, 'SphinxHotTips', 'One line description of project.',
+    (master_doc, 'DataWranglingFakebook', 'Little Data Wrangling Fakebook Documentation',
+     author, 'DataWranglingFakebook', 'One line description of project.',
      'Miscellaneous'),
 ]
 
@@ -183,7 +183,6 @@ epub_copyright = copyright
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
