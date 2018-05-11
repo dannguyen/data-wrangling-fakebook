@@ -10,21 +10,5 @@ The Little Data Wrangling Fakebook
    :maxdepth: 2
    :caption: Contents:
 
-   toc
-   code
-   figures-and-images
-   tables
-   partials
-   publish
-   templating
-
-
-   resources/index
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`search`
+   hello
+   projects/nasa-global-temps/nasa-global-temps-index
