@@ -1,0 +1,10 @@
+<query schema-version="1.0" lang="en" type="search" sig="a6W-hzTmg2khcEK8irewgueWB2I">
+  <search-config>
+    <text-search>S2503: Financial Characteristics</text-search>
+    <category-search type="geo" summary-level-code="010" name="United States"/>
+    <category-search type="geo" summary-level-code="040" name="All States within United States, Puerto Rico, and the Island Areas"/>
+    <category-search type="geo" summary-level-code="050" name="All Counties within United States and Puerto Rico"/>
+    <category-search type="geo" summary-level-code="160" name="All Places within United States and Puerto Rico"/>
+    <category-search type="geo" summary-level-code="310" name="All Metropolitan and Micropolitan Statistical Areas within United States and Puerto Rico"/>
+  </search-config>
+</query>
