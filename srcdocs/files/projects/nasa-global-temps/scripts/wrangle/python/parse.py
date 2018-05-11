@@ -10,8 +10,8 @@ DEST_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 # parsing meta info
 FIELD_NAMES = ['year',
-               'annual_mean',
-               'lowess_smoothed',]
+               'avg',
+               'lowess',]
 
 FIELD_PATTERN = rxcompile(
                     r'(^\d{4})'

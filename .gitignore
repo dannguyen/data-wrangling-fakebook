@@ -1,6 +1,7 @@
 _build/
 _drafts/
 .DS_Store
+_draftbook*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
