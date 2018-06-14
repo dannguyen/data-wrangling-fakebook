@@ -3,7 +3,6 @@ NASA Global Temperature Measurements
 ************************************
 
 
-
 .. contents::
     :local:
 
